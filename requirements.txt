@@ -1,0 +1,4 @@
+spacy==2.0.11
+markovify==0.7.1
+textgenrnn==1.4
+tracery==0.1.1
