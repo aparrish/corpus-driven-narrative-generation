@@ -1,0 +1,10 @@
+name: corpus-driven-narrative-generation
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - spacy
+  - pip:
+    - tracery
+    - markovify
+    - textgenrnn
