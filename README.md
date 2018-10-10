@@ -4,7 +4,7 @@
 
 By [Allison Parrish](http://www.decontextualize.com/)
 
-[corpus-driven-narrative-generation.ipynb](This notebook) is intended to show a
+[This notebook](corpus-driven-narrative-generation.ipynb) is intended to show a
 few ways that you can go about creating new narratives from an existing corpus
 of narrative text using Python and a few readily-available Python libraries. It
 was created as tutorial for [Computational Approaches to
