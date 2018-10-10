@@ -3,6 +3,7 @@ channels:
   - conda-forge
 dependencies:
   - python
+  - tensorflow
   - spacy
   - pip:
     - tracery
